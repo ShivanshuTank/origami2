@@ -1,0 +1,15 @@
+h1{
+    border: solid;
+}
+.one{
+    display: flex;
+    justify-content: space-around ;
+}
+.two{
+    display: flex;
+    justify-content: right;
+}
+.three{
+    display:flex;
+    justify-content:space-evenly
+}
